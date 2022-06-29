@@ -1,4 +1,4 @@
-<img align="right" width="100" heght="100" src="https://avatars.githubusercontent.com/u/68747247">
+<img align="right" width="100" heght="100" src="https://cdn.qhord.co/avatar-ac24.png">
 
 # AC24
 
